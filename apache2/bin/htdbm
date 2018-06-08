@@ -1,0 +1,3 @@
+#!/bin/sh
+. /Users/mikidispiter/data/bitnami1/apache2/bin/envvars
+exec /Users/mikidispiter/data/bitnami1/apache2/bin/htdbm.bin "$@"

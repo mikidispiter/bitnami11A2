@@ -1,0 +1,10 @@
+127.0.0.1 - - [08/Jun/2018:16:07:41 +0200] "GET / HTTP/1.1" 200 868
+127.0.0.1 - - [08/Jun/2018:16:07:48 +0200] "GET /wordpress/ HTTP/1.1" 200 18192
+127.0.0.1 - - [08/Jun/2018:16:07:48 +0200] "GET /wordpress/wp-content/themes/twentyseventeen/assets/images/header.jpg HTTP/1.1" 200 114854
+127.0.0.1 - - [08/Jun/2018:16:07:48 +0200] "GET /wordpress/wp-content/themes/twentyseventeen/assets/js/global.js?ver=1.0 HTTP/1.1" 200 2606
+127.0.0.1 - - [08/Jun/2018:16:07:48 +0200] "GET /wordpress/wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js?ver=1.0 HTTP/1.1" 200 416
+127.0.0.1 - - [08/Jun/2018:16:07:48 +0200] "GET /wordpress/wp-content/themes/twentyseventeen/style.css?ver=4.9.6 HTTP/1.1" 200 15755
+127.0.0.1 - - [08/Jun/2018:16:07:48 +0200] "GET /wordpress/wp-includes/js/wp-embed.min.js?ver=4.9.6 HTTP/1.1" 200 751
+127.0.0.1 - - [08/Jun/2018:16:07:48 +0200] "GET /wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1 HTTP/1.1" 200 4014
+127.0.0.1 - - [08/Jun/2018:16:07:48 +0200] "GET /wordpress/wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js?ver=2.1.2 HTTP/1.1" 200 2409
+127.0.0.1 - - [08/Jun/2018:16:07:48 +0200] "GET /wordpress/wp-includes/js/jquery/jquery.js?ver=1.12.4 HTTP/1.1" 200 33766

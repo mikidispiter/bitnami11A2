@@ -1,0 +1,15 @@
+[Fri Jun 08 15:55:00.753555 2018] [ssl:warn] [pid 39076] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 08 15:55:00.799805 2018] [ssl:warn] [pid 39077] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 08 15:55:00.830282 2018] [mpm_prefork:notice] [pid 39077] AH00163: Apache/2.4.33 (Unix) OpenSSL/1.0.2o PHP/7.0.30 configured -- resuming normal operations
+[Fri Jun 08 15:55:00.830371 2018] [core:notice] [pid 39077] AH00094: Command line: '/Users/mikidispiter/data/bitnami1/apache2/bin/httpd.bin -f /Users/mikidispiter/data/bitnami1/apache2/conf/httpd.conf'
+[Fri Jun 08 15:55:07.529677 2018] [mpm_prefork:notice] [pid 39077] AH00169: caught SIGTERM, shutting down
+[Fri Jun 08 15:55:10.190173 2018] [ssl:warn] [pid 39125] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 08 15:55:10.237576 2018] [ssl:warn] [pid 39126] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 08 15:55:10.267974 2018] [mpm_prefork:notice] [pid 39126] AH00163: Apache/2.4.33 (Unix) OpenSSL/1.0.2o PHP/7.0.30 configured -- resuming normal operations
+[Fri Jun 08 15:55:10.268063 2018] [core:notice] [pid 39126] AH00094: Command line: '/Users/mikidispiter/data/bitnami1/apache2/bin/httpd.bin -f /Users/mikidispiter/data/bitnami1/apache2/conf/httpd.conf'
+[Fri Jun 08 15:55:21.307155 2018] [mpm_prefork:notice] [pid 39126] AH00169: caught SIGTERM, shutting down
+[Fri Jun 08 15:55:23.952397 2018] [ssl:warn] [pid 39218] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 08 15:55:24.000037 2018] [ssl:warn] [pid 39219] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 08 15:55:24.032049 2018] [mpm_prefork:notice] [pid 39219] AH00163: Apache/2.4.33 (Unix) OpenSSL/1.0.2o PHP/7.0.30 configured -- resuming normal operations
+[Fri Jun 08 15:55:24.032138 2018] [core:notice] [pid 39219] AH00094: Command line: '/Users/mikidispiter/data/bitnami1/apache2/bin/httpd.bin -f /Users/mikidispiter/data/bitnami1/apache2/conf/httpd.conf'
+[Fri Jun 08 16:08:22.046217 2018] [mpm_prefork:notice] [pid 39219] AH00169: caught SIGTERM, shutting down
